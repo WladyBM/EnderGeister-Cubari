@@ -1,10 +1,19 @@
 {
   "title": "Tsui no Taimashi ―Ender Geisterー",
-  "description": "This protagonist is the most demonically strong exorcist. S-class exorcist Akira is sent from Germany to investigate a paranormal occurrence in a certain city in Japan. He will shoot the otherworldly creatures with his beautiful partner the exorcist Chikage.",
+  "description": "The main character is an exorcist who is the strongest and most devastating. Akira is an S-class exorcist sent from Germany to investigate a supernatural incident that occurred in a certain city in Japan along with his beautiful partner, the exorcist Chikage.
+  Shoot them! Hit them! Kill them! A super-stimulating Hollywood-style action manga starts here!",
   "artist": "Yomoyama Takashi",
   "author": "Yomoyama Takashi",
   "cover": "https://i.imgur.com/EjD6acQ.jpg",
   "chapters": {
+    "28": {
+      "title": "Faust",
+      "volume: "4",
+      "groups": {
+        "FrenziedFrogScan": "/proxy/api/imgur/chapter/2RSgvVg/"
+      },
+      "last_updated": "1617844086"
+     }, 
     "29": {
       "title": "Smokin' Aces",
       "volume": "4",
