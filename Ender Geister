@@ -5,11 +5,227 @@
   "author": "Yomoyama Takashi",
   "cover": "https://i.imgur.com/EjD6acQ.jpg",
   "chapters": {
+    "01": {
+      "title": "August Eight",
+      "volume": "1",
+      "groups": {
+        "FrenziedFrog Scan": "/proxy/api/imgur/chapter/AqdYIYK/"
+      },
+      "last_updated": "1590378146"
+     },
+    "02": {
+      "title": "Con Air",
+      "volume": "1",
+      "groups": {
+        "FrenziedFrog Scan": "/proxy/api/imgur/chapter/3GghibQ/"
+      },
+      "last_updated": "1590464523"
+     },
+     "03": {
+      "title": "Eastern Promises",
+      "volume": "1",
+      "groups": {
+        "FrenziedFrog Scan": "/proxy/api/imgur/chapter/KcjDqyv/"
+      },
+      "last_updated": "1591587723"
+     },
+     "04": {
+      "title": "The Devil Wears Prada",
+      "volume": "1",
+      "groups": {
+        "FrenziedFrog Scan": "/proxy/api/imgur/chapter/UqYm48x/"
+      },
+      "last_updated": "1592451725"
+     },
+     "05": {
+      "title": "Stitches",
+      "volume": "1",
+      "groups": {
+        "FrenziedFrog Scan": "/proxy/api/imgur/chapter/T5yrtDO/"
+      },
+      "last_updated": "1593315723"
+     },
+     "06": {
+      "title": "Don't Breathe",
+      "volume": "1",
+      "groups": {
+        "FrenziedFrog Scan": "/proxy/api/imgur/chapter/gpgspwU/"
+      },
+      "last_updated": "1593867079"
+     },
+     "07": {
+      "title": "Fight Club",
+      "volume": "2",
+      "groups": {
+        "FrenziedFrog Scan": "/proxy/api/imgur/chapter/P3YPgmf/"
+      },
+      "last_updated": "1594385444"
+     },
+     "08": {
+      "title": "The Last Samurai",
+      "volume": "2",
+      "groups": {
+        "FrenziedFrog Scan": "/proxy/api/imgur/chapter/YMmmBTV/"
+      },
+      "last_updated": "1595335821"
+     },
+     "09": {
+      "title": "Dreamcatcher",
+      "volume": "2",
+      "groups": {
+        "FrenziedFrog Scan": "/proxy/api/imgur/chapter/8HCal7z/"
+      },
+      "last_updated": "1596459033"
+     },
+     "10": {
+      "title": "The Ninth Gate",
+      "volume": "2",
+      "groups": {
+        "FrenziedFrog Scan": "/proxy/api/imgur/chapter/cJ5lDbe/"
+      },
+      "last_updated": "1598014219"
+     },
+     "11": {
+      "title": "Steak (R)evolution",
+      "volume": "2",
+      "groups": {
+        "FrenziedFrog Scan": "/proxy/api/imgur/chapter/dxpfZ5q/"
+      },
+      "last_updated": "1598187001"
+     },
+     "12": {
+      "title": "Cube",
+      "volume": "2",
+      "groups": {
+        "FrenziedFrog Scan": "/proxy/api/imgur/chapter/kSaTMfW/"
+      },
+      "last_updated": "1599137422"
+     },
+     "13": {
+      "title": "Skyfall",
+      "volume": "2",
+      "groups": {
+        "FrenziedFrog Scan": "/proxy/api/imgur/chapter/IeNR3eT/"
+      },
+      "last_updated": "1599915083"
+     },
+     "14": {
+      "title": "Stargate",
+      "volume": "2",
+      "groups": {
+        "FrenziedFrog Scan": "/proxy/api/imgur/chapter/zwl0F0E/"
+      },
+      "last_updated": "1604969412"
+     },
+     "15": {
+      "title": "Collateral",
+      "volume": "2",
+      "groups": {
+        "FrenziedFrog Scan": "/proxy/api/imgur/chapter/9p2LC1S/"
+      },
+      "last_updated": "1606611004"
+     },
+     "16": {
+      "title": "Makai Tensho",
+      "volume": "2",
+      "groups": {
+        "FrenziedFrog Scan": "/proxy/api/imgur/chapter/lxGz97g/"
+      },
+      "last_updated": "1606613581"
+     },
+     "17": {
+      "title": "Chain Reaction",
+      "volume": "3",
+      "groups": {
+        "FrenziedFrog Scan": "/proxy/api/imgur/chapter/PgfEsrn/"
+      },
+      "last_updated": "1607131981"
+     },
+     "18": {
+      "title": "Hellraiser",
+      "volume": "3",
+      "groups": {
+        "FrenziedFrog Scan": "/proxy/api/imgur/chapter/ZDRoKDA/"
+      },
+      "last_updated": "1607139901"
+     },
+     "19": {
+      "title": "Us",
+      "volume": "3",
+      "groups": {
+        "FrenziedFrog Scan": "/proxy/api/imgur/chapter/InBvFES/"
+      },
+      "last_updated": "1607142181"
+     },
+     "20": {
+      "title": "The Lovely Bones",
+      "volume": "3",
+      "groups": {
+        "FrenziedFrog Scan": "/proxy/api/imgur/chapter/NWYeaih/"
+      },
+      "last_updated": "1607833341"
+     },
+     "21": {
+      "title": "City of God",
+      "volume": "3",
+      "groups": {
+        "FrenziedFrog Scan": "/proxy/api/imgur/chapter/KQqAg3Z/"
+      },
+      "last_updated": "1607847732"
+     },
+     "22": {
+      "title": "Center of the Earth",
+      "volume": "3",
+      "groups": {
+        "FrenziedFrog Scan": "/proxy/api/imgur/chapter/D9wAoD4/"
+      },
+      "last_updated": "1607934186"
+     },
+     "23": {
+      "title": "Eight Legged Freaks",
+      "volume": "3",
+      "groups": {
+        "FrenziedFrog Scan": "/proxy/api/imgur/chapter/b6ZEMoI/"
+      },
+      "last_updated": "1607906505"
+     },
+     "24": {
+      "title": "The Abyss",
+      "volume": "3",
+      "groups": {
+        "FrenziedFrog Scan": "/proxy/api/imgur/chapter/eijTNaw/"
+      },
+      "last_updated": "1608770553"
+     },
+     "25": {
+      "title": "The Predator",
+      "volume": "3",
+      "groups": {
+        "FrenziedFrog Scan": "/proxy/api/imgur/chapter/Z6YN3DO/"
+      },
+      "last_updated": "1608874911"
+     },
+     "26": {
+      "title": "Hardcore",
+      "volume": "4",
+      "groups": {
+        "FrenziedFrog Scan": "/proxy/api/imgur/chapter/8JViZpO/"
+      },
+      "last_updated": "1608867737"
+     },
+     "27": {
+      "title": "Alone in the Dark",
+      "volume": "4",
+      "groups": {
+        "FrenziedFrog Scan": "/proxy/api/imgur/chapter/hTYWGns/"
+      },
+      "last_updated": "1609299756"
+     },
     "28": {
       "title": "Faust",
       "volume": "4",
       "groups": {
-        "FrenziedFrogScan": "/proxy/api/imgur/chapter/2RSgvVg/"
+        "FrenziedFrog Scan": "/proxy/api/imgur/chapter/2RSgvVg/"
       },
       "last_updated": "1617844086"
      },
@@ -17,7 +233,7 @@
       "title": "Smokin' Aces",
       "volume": "4",
       "groups": {
-        "FrenziedFrogScan": "/proxy/api/imgur/chapter/4SqgaKJ/"
+        "FrenziedFrog Scan": "/proxy/api/imgur/chapter/4SqgaKJ/"
       },
       "last_updated": "1617842815"
     }
