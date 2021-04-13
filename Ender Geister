@@ -249,7 +249,7 @@
       "title": "Farewell Tango",
       "volume": "4",
       "groups": {
-        "<a href='https://discord.gg/T8B5jU2J6S'>FrenziedFrog Scan</a>": "/proxy/api/imgur/chapter/mlmHqed/"
+        "FrenziedFrog Scan": "/proxy/api/imgur/chapter/mlmHqed/"
       },
       "last_updated": "1618296930"
     }
