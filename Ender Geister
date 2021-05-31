@@ -3,7 +3,7 @@
   "description": "The main character is an exorcist who is the strongest and most devastating. Akira is an S-class exorcist sent from Germany to investigate a supernatural incident that occurred in a certain city in Japan along with his beautiful partner, the exorcist Chikage. Shoot them! Hit them! Kill them! A super-stimulating Hollywood-style action manga starts here!",
   "artist": "Yomoyama Takashi",
   "author": "Yomoyama Takashi",
-  "cover": "https://i.imgur.com/EjD6acQ.jpg",
+  "cover": "https://i.imgur.com/K8M0zlb.jpg",
   "chapters": {
     "01": {
       "title": "August Eight",
@@ -340,6 +340,14 @@
         "FrenziedFrog Scan": "/proxy/api/imgur/chapter/QFM4F4O/"
       },
       "last_updated": "1622164665"
+    },
+    "43": {
+      "title": "The Return of the Living Dead",
+      "volume": "5",
+      "groups": {
+        "FrenziedFrog Scan": "/proxy/api/imgur/chapter/crx3Ths/"
+      },
+      "last_updated": "1622427048"
     }
   }
 }
